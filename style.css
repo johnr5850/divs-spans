@@ -48,7 +48,9 @@ code {
     background-color: #FFD8D8;
     padding: 50px;
 }
-
+.links {
+    background-color: #ccffff;
+}
 .blue {
     color: #2884C3;
 }
